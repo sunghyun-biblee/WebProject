@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=깃허브%20특강&fontSize=90)
 
 ```
-멀티켐퍄스에서 웹 개발자 28회
+멀티켐퍄스에서 웹 개발자 28회차
 ```
 
 <img src='images/KakaoTalk_20230819_211836811.jpg'> </img>
