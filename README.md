@@ -2,7 +2,7 @@
 
 **안녕하세요 웹 개발자 성현입니다** 
 
--[x]수업중
+- [x] 수업중
 
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=깃허브%20특강&fontSize=90)
